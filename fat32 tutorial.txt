@@ -1,0 +1,9 @@
+http://www.win.tue.nl/~aeb/linux/fs/fat/fat-1.html
+https://www.pjrc.com/tech/8051/ide/fat32.html
+http://blog.chinaunix.net/uid-26694208-id-4208041.html
+http://www.cnblogs.com/fantacity/p/3900237.html
+http://dengqi.blog.51cto.com/5685776/1349327
+
+
+
+jay @201508
